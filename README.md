@@ -5,7 +5,7 @@ Role ....... Software Developer
 Languages .. Java, Python, SQL
 Tools ...... IntelliJ IDEA, VS Code, Git Bash
 Mindset .... First-Principles, Systems Analysis, Logic
-```text
+
                                                                                                  
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@*=  #@ @@+++@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
