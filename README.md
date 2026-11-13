@@ -13,6 +13,7 @@ I am the universe testing itself, reading its own code, learning and teaching.
 
 ## 🔧 Technical skills
 **Lenguajes y desarrollo**
+
 <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
