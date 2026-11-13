@@ -1,10 +1,4 @@
-# hallo everynyan 
-
-
-
-<h1 align="center">hallo everynyan 👋</h1>
-
-<div align="center">
+# hallo everynyan
 
 ```text
 ⠀⡀⠄⡀⠄⠠⠀⠄⠠⠀⠄⡀⠄⠠⢀⠠⠀⠄⡀⠄⡀⠄⠀⠄⡀⠄⢀⠠⠀⡀⠠⢀⠀⠄⠀⠄⠠⢀⠀⠄⡀⠠⠀⠄⡀⠀⡀⠀⠄⢀⠠⠀⡀⠄⢀⠀⡀⠀⡀⢀⠀⡀⠄⠀⡀⠄⡀⠄⠀⠄
