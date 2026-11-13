@@ -1,4 +1,4 @@
-# hallo everynyan 👋
+# hallo everynyan 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=purple&style=flat" alt="Profile views" />
