@@ -37,8 +37,10 @@ I like to create content that serves as an example—crude but true—of the pro
 ## 📚 Recommended readings
 I like to stay up a little late reading, so here are some of the books that have influenced me the most so far and that I recommend:
 
-* *(Añade aquí tu primer libro)*
-* *(Añade aquí tu segundo libro)*
+* *White Nights by Fyodor Dostoevsky*
+* *Crime and punishment by Fyodor Dostoevsky*
+* *Waiting for Godot by Samuel Beckett*
+* *The Complete Stories of Clarice Lispector*
 
 ## 📬 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-giraldo-bedoya-ab13553aa/)
