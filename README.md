@@ -1,9 +1,9 @@
 # hallo everynyan 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=purple&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mmmiguel6&color=purple&style=flat" alt="Profile views" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmmiguel6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
