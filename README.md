@@ -1,5 +1,5 @@
 # Hallo
-
+---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mmmiguel6&color=8a2be2&style=flat" alt="" />  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmmiguel6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
