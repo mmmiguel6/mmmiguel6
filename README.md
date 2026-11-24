@@ -16,5 +16,5 @@
 
 ---
 
-A hirrelevant student of software engineering that might help you out. <br>
+An irrelevant student of software engineering that might help you out. <br>
 Feel free to contact me for any tech issue.
